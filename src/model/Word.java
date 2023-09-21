@@ -3,6 +3,7 @@ package model;
 public class Word {
     private String key;
     private String value;
+    private boolean isShowed;
 
     public Word() {
     }
@@ -28,8 +29,16 @@ public class Word {
         this.value = value.trim().toLowerCase();
     }
 
+    public boolean isShowed() {
+        return isShowed;
+    }
+
+    public void setShowed(boolean showed) {
+        isShowed = showed;
+    }
+
     @Override
     public String toString() {
-        return key + ":" + value;
+        return "\n" + key + ":" + value;
     }
 }

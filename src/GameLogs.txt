@@ -1,0 +1,13 @@
+New Game  started at --> Time: 2023-09-21T19:37:53.109186900 Point --> 6 Game Time --> 0.0
+New Game  started at --> Time: 2023-09-21T20:15:19.482640700 Point --> 6 Game Time --> 22.0
+New Game  started at --> Time: 2023-09-21T20:30:32.722152700 Point --> 8 Game Time --> 21.0seconds
+New Game  started at --> Time: 2023-09-21T20:31:03.464825700 Point --> 14 Game Time --> 22.0seconds
+New Game  started at --> Time: 2023-09-21T20:32:59.761218 Point --> 2 Game Time --> 17.0seconds
+New Game  started at --> Time: 2023-09-21T20:34:15.483074600 Point --> 4 Game Time --> 18.0seconds
+New Game  started at --> Time: 2023-09-21T20:35:53.049357200 Point --> -1 Game Time --> 15.0seconds
+New Game  started at --> Time: 2023-09-21T20:36:24.590992700 Point --> -1 Game Time --> 18.0seconds
+New Game  started at --> Time: 2023-09-21T20:37:31.664569100 Point --> 0 Game Time --> 15.0seconds
+New Game  started at --> Time: 2023-09-21T20:38:28.194622400 Point --> 0 Game Time --> 15.0seconds
+New Game  started at --> Time: 2023-09-21T20:40:10.529062400 Point --> 0 Game Time --> 14.0seconds
+New Game  started at --> Time: 2023-09-21T20:41:44.895271100 Point --> 0 Game Time --> 14.0seconds
+New Game  started at --> Time: 2023-09-21T20:43:08.596470600 Point --> 0 Game Time --> 15.0seconds

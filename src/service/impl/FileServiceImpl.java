@@ -37,7 +37,7 @@ public class FileServiceImpl implements FileServiceInter {
     public void writeFile(Word word) {
         File file = new File(globalStrings.GAME_DICTIONARY_FILE_NAME);
         try {
-            OutputStream outputStream = new FileOutputStream(file);
+            OutputStream outputStream = new FileOutputStream(file, true);
             outputStream.write(word.toString().getBytes());
             outputStream.close();
         } catch (IOException exception) {
